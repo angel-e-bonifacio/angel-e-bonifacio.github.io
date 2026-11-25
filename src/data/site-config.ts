@@ -1,20 +1,27 @@
+
 import avatar from '../assets/images/avatar.jpg';
 import hero from '../assets/images/hero.jpg';
 import type { SiteConfig } from '../types';
 
 const siteConfig: SiteConfig = {
-    website: 'https://example.com',
+    website: 'https://angel-e-bonifacio.github.io',
+
     avatar: {
         src: avatar,
-        alt: 'Ethan Donovan'
+        alt: 'Ángel Elí Bonifacio Gálvez'
     },
-    title: 'Ángel Eli Bonifacio Gálvez',
-    subtitle: 'Minimal Astro.js theme',
-    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
+
+    title: 'Ángel Elí Bonifacio Gálvez',
+
+    subtitle: 'Estudiante de Ingeniería en Desarrollo y Gestión de Software',
+
+    description: 'Portafolio personal de Ángel Elí Bonifacio Gálvez, estudiante de Ingeniería en Desarrollo y Gestión de Software. Proyectos, tecnologías y experiencia en desarrollo de software.',
+
     image: {
         src: '/dante-preview.jpg',
-        alt: 'Dante - Astro.js and Tailwind CSS theme'
+        alt: 'Portafolio personal de Ángel Elí Bonifacio Gálvez'
     },
+
     headerNavLinks: [
         {
             text: 'Inicio',
@@ -29,64 +36,78 @@ const siteConfig: SiteConfig = {
             href: '/blog'
         },
         {
-            text: 'Tags',
+            text: 'Etiquetas',
             href: '/tags'
         }
     ],
+
     footerNavLinks: [
         {
-            text: 'About',
+            text: 'Sobre mí',
             href: '/about'
         },
         {
-            text: 'Contactar',
+            text: 'Contacto',
             href: '/contactar'
         },
         {
-            text: 'Terms',
-            href: '/terms'
+            text: 'Proyectos',
+            href: '/proyects'
         },
         {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
+            text: 'GitHub',
+            href: 'https://github.com/angel-e-bonifacio'
         }
     ],
+
     socialLinks: [
         {
-            text: 'Facebook',
-            href: 'Angel Bon'
-        },
-        {
-            text: 'Instagram',
-            href: 'https://instagram.com/'
+            text: 'GitHub',
+            href: 'https://github.com/angel-e-bonifacio'
         },
         {
             text: 'Correo Electrónico',
-            href: '4n63l222@gmail.com'
+            href: 'mailto:4n63l222@gmail.com'
         }
     ],
+
     hero: {
-        title: 'Bienvenido!',
-        text: "Me llamo Ángel Elí, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence.\nMy approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products.\nI have a profound appreciation for top-notch software, visual design, and the principles of product-led growth.\n\nFeel free to explore some of my coding endeavors on [GitHub](https://github.com/JustGoodUI/dante-astro-theme) or follow me on [Twitter/X](https://twitter.com/justgoodui).",
+        title: '¡Hola! Soy Ángel Elí',
+
+        text: `Soy estudiante de Ingeniería en Desarrollo y Gestión de Software en la Universidad Tecnológica Fidel Velázquez, interesado en el desarrollo de aplicaciones y la creación de soluciones tecnológicas.
+
+        Durante mi formación he adquirido conocimientos en desarrollo web, programación y gestión de bases de datos, trabajando con tecnologías como HTML, CSS, JavaScript, PHP, Java, MySQL y Oracle.
+
+        Me gusta aprender nuevas tecnologías, enfrentar retos de programación y llevar las ideas a proyectos funcionales. He participado en el desarrollo de diferentes proyectos académicos y personales, en los que he podido poner en práctica mis conocimientos y seguir fortaleciendo mis habilidades.
+
+        Te invito a conocer algunos de mis proyectos y explorar mi trabajo en [GitHub](https://github.com/angel-e-bonifacio).`,
+
         image: {
             src: hero,
-            alt: 'A person sitting at a desk in front of a computer'
+            alt: 'Espacio de trabajo relacionado con el desarrollo de software'
         },
+
         actions: [
             {
-                text: 'Get in Touch',
-                href: '/contact'
+                text: 'Ver mis proyectos',
+                href: '/proyects'
+            },
+            {
+                text: 'Contactarme',
+                href: '/contactar'
             }
         ]
     },
+
     subscribe: {
-        enabled: true,
-        title: 'Subscribe to Dante Newsletter',
-        text: 'One update per week. All the latest posts directly in your inbox.',
+        enabled: false,
+        title: 'Suscríbete a mi boletín',
+        text: 'Próximamente.',
         form: {
             action: '#'
         }
     },
+
     postsPerPage: 8,
     projectsPerPage: 8
 };

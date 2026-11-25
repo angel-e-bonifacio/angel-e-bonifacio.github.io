@@ -10,17 +10,17 @@ seo:
 
 ![Project preview](../../assets/images/project-3.jpg)
 
-**Project Overview:**
+## Descripción del Proyecto
 
 Grupo Ancor es un sitio web desarrollado para una empresa dedicada a la comercialización de productos de acero. Su propósito es ofrecer un espacio digital donde los clientes puedan conocer los productos disponibles y realizar cotizaciones de acuerdo con sus necesidades.
 
-**## Objectives**
+## Objetivos
 
 1. Desarrollar una plataforma web para presentar los productos y servicios de la empresa.
 2. Facilitar a los clientes la consulta de productos y sus características.
 3. Implementar un sistema de cotizaciones que permita solicitar información sobre pedidos.
 
-**## Features**
+## Características
 
 1. **Catálogo de productos:**
    - Consulta de productos relacionados con la comercialización de acero.
@@ -34,10 +34,10 @@ Grupo Ancor es un sitio web desarrollado para una empresa dedicada a la comercia
    - Presentación de información general de la empresa.
    - Acceso a información relacionada con sus productos y servicios.
 
-**## Technology Stack**
+## Tecnologías Utilizadas
 
-Las tecnologías utilizadas en el desarrollo se detallarán una vez revisado el código fuente del proyecto.
+Las tecnologías utilizadas en el desarrollo se detallarán una vez revisado el código fuente del proyecto, cómo php, html, etc.
 
-**## Outcome**
+## Resultado
 
 Se desarrolló un sitio web que permite a Grupo Ancor contar con una presencia digital y facilita a sus clientes la consulta de productos y la solicitud de cotizaciones, haciendo más accesible el proceso de consulta y atención comercial.

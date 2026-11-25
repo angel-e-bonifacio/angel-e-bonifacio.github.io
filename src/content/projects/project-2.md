@@ -10,17 +10,17 @@ seo:
 
 ![Project preview](../../assets/images/project-2.jpg)
 
-**Project Overview:**
+## Descripción del Proyecto
 
 Gestor Doméstico es una aplicación web progresiva (PWA) desarrollada para facilitar la organización de las compras y la administración de productos del hogar. Permite crear listas de compra, gestionar un inventario doméstico y consultar información sobre los productos almacenados, incluyendo sus fechas de caducidad.
 
-**## Objectives**
+## Objetivos
 
 1. Facilitar la organización de las compras del hogar.
 2. Mantener un registro de los productos disponibles en el inventario.
 3. Ofrecer una aplicación accesible y funcional incluso sin conexión a internet.
 
-**## Features**
+## Características
 
 1. **Lista de compras:**
    - Agregar, modificar y eliminar productos.
@@ -45,7 +45,7 @@ Gestor Doméstico es una aplicación web progresiva (PWA) desarrollada para faci
    - Almacenamiento local de información.
    - Acceso a funcionalidades principales sin conexión a internet.
 
-**## Technology Stack**
+## Tecnologías Utilizadas
 
 - Frontend: React y JavaScript.
 - Estilos: CSS y Tailwind CSS.
@@ -54,6 +54,6 @@ Gestor Doméstico es una aplicación web progresiva (PWA) desarrollada para faci
 - PWA: Vite PWA Plugin y Workbox.
 - Herramientas: Node.js y npm.
 
-**## Outcome**
+## Resultado
 
 Se desarrolló una aplicación web progresiva que permite organizar las compras y mantener un inventario doméstico de manera práctica. Su almacenamiento local y sus características PWA permiten consultar y administrar la información sin depender constantemente de una conexión a internet.

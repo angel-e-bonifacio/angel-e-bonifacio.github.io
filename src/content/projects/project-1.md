@@ -10,17 +10,17 @@ seo:
 
 ![Project preview](../../assets/images/project-1.jpg)
 
-**Project Overview:**
+## Descripción del Proyecto
 
 SONIDEROS es una aplicación web diseñada para facilitar la administración de negocios dedicados a ofrecer servicios de sonido para eventos. La plataforma permite que cada empresa cuente con su propio espacio personalizado, donde puede mostrar sus servicios, administrar paquetes y recibir solicitudes de reserva de sus clientes.
 
-**## Objectives**
+## Objetivos
 
 1. Desarrollar una plataforma que permita administrar diferentes negocios de sonideros desde un mismo sistema.
 2. Facilitar la publicación de servicios y paquetes para los clientes.
 3. Gestionar solicitudes de reserva y mantener organizada la información de cada empresa.
 
-**## Features**
+## Características
 
 1. **Gestión multiempresa:**
    - Cada sonidero cuenta con su propio espacio e identidad visual.
@@ -41,7 +41,7 @@ SONIDEROS es una aplicación web diseñada para facilitar la administración de 
 5. **Notificaciones por correo:**
    - Envío de correos electrónicos relacionados con las operaciones del sistema.
 
-**## Technology Stack**
+## Tecnologías Utilizadas
 
 - Backend: PHP.
 - Frontend: HTML, CSS y JavaScript.
@@ -51,6 +51,6 @@ SONIDEROS es una aplicación web diseñada para facilitar la administración de 
 - Arquitectura: Modelo-Vista-Controlador (MVC).
 - Herramientas: Composer y PHPMailer para la gestión del envío de correos.
 
-**## Outcome**
+## Resultado
 
 Se desarrolló una plataforma web que permite centralizar la administración de diferentes negocios de sonideros, ofreciendo herramientas para gestionar sus servicios, paquetes, clientes y reservas mediante espacios independientes y personalizables.

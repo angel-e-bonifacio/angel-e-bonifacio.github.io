@@ -1,5 +1,5 @@
 ---
-title: 'Grupo Ancor: Sitio Web Comercial'
+title: 'Grupo Ancor: Gestión de Costos Fijos y Variables'
 description: Sitio web desarrollado para una empresa dedicada a la comercialización de acero, con herramientas para consultar productos y generar cotizaciones de pedidos.
 publishDate: 'Aug 10 2025'
 seo:

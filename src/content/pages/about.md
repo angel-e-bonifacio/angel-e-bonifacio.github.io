@@ -8,9 +8,6 @@ seo:
     src: '../../assets/images/about.jpg'
     alt: Espacio de trabajo relacionado con el desarrollo de software
 ---
-
-![Espacio de trabajo relacionado con el desarrollo de software](../../assets/images/about.jpg)
-
 ## Ángel Elí Bonifacio Gálvez - Estudiante de Ingeniería en Desarrollo y Gestión de Software
 
 **¡Hola! Bienvenido a mi portafolio.**

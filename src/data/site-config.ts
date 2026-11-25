@@ -33,7 +33,7 @@ const siteConfig: SiteConfig = {
         },
         {
             text: 'Proyectos',
-            href: '/proyects'
+            href: '/projects'
         }
     ],
 
@@ -44,7 +44,7 @@ const siteConfig: SiteConfig = {
         },
         {
             text: 'Proyectos',
-            href: '/proyects'
+            href: '/projects'
         },
         {
             text: 'GitHub',
@@ -86,7 +86,7 @@ const siteConfig: SiteConfig = {
             },
             {
                 text: 'Conoce mis proyectos',
-                href: '/proyects'
+                href: '/projects'
             },
             {
                 text: 'Contactarme',

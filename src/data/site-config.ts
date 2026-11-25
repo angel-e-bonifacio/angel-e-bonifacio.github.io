@@ -28,6 +28,10 @@ const siteConfig: SiteConfig = {
             href: '/'
         },
         {
+            text: 'Sobre mí',
+            href: '/about'
+        }
+        {
             text: 'Proyectos',
             href: '/proyects'
         }
@@ -35,11 +39,7 @@ const siteConfig: SiteConfig = {
 
     footerNavLinks: [
         {
-            text: 'Sobre mí',
-            href: '/about'
-        },
-        {
-            text: 'Contacto',
+            text: 'Contactarme',
             href: '/contactar'
         },
         {
@@ -80,6 +80,10 @@ const siteConfig: SiteConfig = {
         },
 
         actions: [
+            {
+                text: 'Sobre mí',
+                href: '/about'
+            }
             {
                 text: 'Conoce mis proyectos',
                 href: '/proyects'

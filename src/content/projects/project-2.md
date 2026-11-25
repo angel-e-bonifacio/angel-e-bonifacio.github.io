@@ -1,64 +1,59 @@
 ---
-title: 'TimeWarp - Travel Agency Website'
-description: Explore the possibilities of time travel through an immersive website for a fictional travel agency, complete with dynamic destination timelines and interactive historical events.
-publishDate: 'Oct 2 2023'
-isFeatured: true
+title: 'Gestor Doméstico: Aplicación Web Progresiva'
+description: Aplicación web progresiva para organizar listas de compra y administrar inventarios domésticos, con almacenamiento local y funcionalidades disponibles sin conexión.
+publishDate: 'Oct 17 2026'
 seo:
   image:
     src: '../../assets/images/project-2.jpg'
-    alt: Project preview
+    alt: Vista previa de Gestor Doméstico
 ---
 
 ![Project preview](../../assets/images/project-2.jpg)
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
-
 **Project Overview:**
-TimeWarp Travel Agency aims to redefine the travel experience by offering an innovative and immersive online platform that explores the concept of time travel. The website combines cutting-edge technology with captivating storytelling to provide users with a unique journey through time.
 
-> Working with Ethan Donovan was a game-changer for our online presence. Their innovative solutions and attention to detail turned our vision into a reality. The website not only looks fantastic but also functions seamlessly. A true professional who exceeded our expectations!
+Gestor Doméstico es una aplicación web progresiva (PWA) desarrollada para facilitar la organización de las compras y la administración de productos del hogar. Permite crear listas de compra, gestionar un inventario doméstico y consultar información sobre los productos almacenados, incluyendo sus fechas de caducidad.
 
-## Objectives
+**## Objectives**
 
-1. Create a visually stunning and user-friendly website that captures the essence of time travel.
-2. Integrate interactive elements to engage users and make the experience memorable.
-3. Develop a responsive design to ensure a seamless user experience across various devices.
+1. Facilitar la organización de las compras del hogar.
+2. Mantener un registro de los productos disponibles en el inventario.
+3. Ofrecer una aplicación accesible y funcional incluso sin conexión a internet.
 
-## Features
+**## Features**
 
-1. **Dynamic Destination Timelines:**
+1. **Lista de compras:**
+   - Agregar, modificar y eliminar productos.
+   - Organizar cantidades y unidades de los artículos.
+   - Transferir los productos comprados al inventario.
 
-- Users can explore destinations through dynamic timelines, showcasing significant historical events, cultural developments, and architectural milestones.
-- Interactive sliders allow users to navigate through different eras, providing a visual representation of the historical evolution of each location.
+2. **Inventario doméstico:**
+   - Registrar productos, cantidades y ubicaciones de almacenamiento.
+   - Consultar el estado de los productos y sus fechas de caducidad.
+   - Actualizar existencias y administrar los artículos registrados.
 
-2. **Interactive Historical Events:**
+3. **Notificaciones:**
+   - Alertas sobre productos próximos a caducar.
+   - Notificaciones mediante el navegador.
 
-- Users can click on specific points in the timeline to reveal detailed information about key historical events related to the chosen destination.
-- Rich multimedia content, including images, videos, and articles, provides a comprehensive understanding of each event.
+4. **Respaldo de información:**
+   - Exportar los datos del inventario y la lista de compras.
+   - Importar respaldos para recuperar la información.
 
-3. **Personalized Time Travel Planner:**
+5. **Características PWA:**
+   - Instalación como aplicación desde el navegador.
+   - Almacenamiento local de información.
+   - Acceso a funcionalidades principales sin conexión a internet.
 
-- A personalized planner feature enables users to create their time travel itineraries by selecting specific eras and destinations.
-- The system suggests thematic experiences, such as attending historical events or meeting famous personalities.
+**## Technology Stack**
 
-4. **Time-Port Virtual Reality Experience:**
+- Frontend: React y JavaScript.
+- Estilos: CSS y Tailwind CSS.
+- Build Tool: Vite.
+- Database: IndexedDB mediante Dexie.
+- PWA: Vite PWA Plugin y Workbox.
+- Herramientas: Node.js y npm.
 
-- For an extra layer of immersion, users can opt for the Time-Port VR experience, allowing them to virtually step into different time periods and explore the surroundings in 360 degrees.
+**## Outcome**
 
-5. **Chronicle Explorer Blog:**
-
-- A blog section, "Chronicle Explorer," offers in-depth articles and stories about various historical periods and their impact on the destinations featured on the platform.
-- Users can engage with the content, comment, and share their own historical insights.
-
-## Technology Stack
-
-- **Frontend:** [Astro.js](https://astro.build/) for a dynamic and responsive user interface and [Tailwind CSS](https://tailwindcss.com/) for styling.
-- **Backend:** Node.js for handling server-side logic and API integration.
-- **Database:** MongoDB for efficient storage and retrieval of historical data.
-- **VR Integration:** A-Frame framework for creating immersive virtual reality experiences.
-
-## Outcome
-
-The TimeWarp Travel Agency Website successfully brings the concept of time travel to life, providing users with a captivating and educational experience. The website not only serves as a travel planning tool but also as an interactive platform that encourages users to explore and appreciate the rich tapestry of human history.
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+Se desarrolló una aplicación web progresiva que permite organizar las compras y mantener un inventario doméstico de manera práctica. Su almacenamiento local y sus características PWA permiten consultar y administrar la información sin depender constantemente de una conexión a internet.

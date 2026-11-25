@@ -41,6 +41,7 @@ Durante mi formación académica he adquirido conocimientos en distintas áreas 
 **Herramientas y tecnologías:**
 - Visual Studio Code
 - Android Studio
+- Hostinger
 - Git y GitHub
 - Docker (Conocimientos básicos)
 - Jenkins (Conocimientos básicos)

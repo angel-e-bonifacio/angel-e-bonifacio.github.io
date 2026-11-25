@@ -4,9 +4,6 @@ title: Sobre mí
 seo:
   title: Sobre mí | Ángel Elí Bonifacio
   description: Conoce a Ángel Elí Bonifacio, estudiante de Ingeniería en Desarrollo y Gestión de Software, sus habilidades, intereses y proyectos.
-  image:
-    src: '../../assets/images/about.jpg'
-    alt: Espacio de trabajo relacionado con el desarrollo de software
 ---
 ## Ángel Elí Bonifacio Gálvez - Estudiante de Ingeniería en Desarrollo y Gestión de Software
 

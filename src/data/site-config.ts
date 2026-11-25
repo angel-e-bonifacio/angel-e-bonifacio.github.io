@@ -30,7 +30,7 @@ const siteConfig: SiteConfig = {
         {
             text: 'Sobre mí',
             href: '/about'
-        }
+        },
         {
             text: 'Proyectos',
             href: '/proyects'

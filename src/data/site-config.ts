@@ -67,7 +67,7 @@ const siteConfig: SiteConfig = {
         },
         {
             text: 'Correo Electrónico',
-            href: 'mailto:4n63l222@gmail.com'
+            href: '4n63l222@gmail.com'
         }
     ],
 
@@ -89,7 +89,7 @@ const siteConfig: SiteConfig = {
 
         actions: [
             {
-                text: 'Ver mis proyectos',
+                text: 'Conoce mis proyectos',
                 href: '/proyects'
             },
             {

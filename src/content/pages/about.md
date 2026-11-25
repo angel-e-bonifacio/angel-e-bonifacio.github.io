@@ -1,43 +1,90 @@
+
 ---
-title: About
+title: Sobre mí
 seo:
-  title: About Me
-  description: Learn more about the person behind the website and embark on a journey of inspiration and shared experiences.
+  title: Sobre mí | Ángel Elí Bonifacio
+  description: Conoce a Ángel Elí Bonifacio, estudiante de Ingeniería en Desarrollo y Gestión de Software, sus habilidades, intereses y proyectos.
   image:
     src: '../../assets/images/about.jpg'
-    alt: A person sitting at a desk in front of a computer
+    alt: Espacio de trabajo relacionado con el desarrollo de software
 ---
 
-![Alt text for image](../../assets/images/about.jpg)
+![Espacio de trabajo relacionado con el desarrollo de software](../../assets/images/about.jpg)
 
-**Note!:** This about page is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+## Ángel Elí Bonifacio Gálvez - Estudiante de Ingeniería en Desarrollo y Gestión de Software
 
-## Ethan Donovan - Web Developer based in Estonia
+**¡Hola! Bienvenido a mi portafolio.**
 
-**Greetings!** I'm Ethan Donovan, a passionate web developer residing in the picturesque landscapes of [Estonia](https://en.wikipedia.org/wiki/Estonia). With a keen eye for design and a love for crafting seamless digital experiences, I bring a unique blend of creativity and technical expertise to the world of web development.
+Mi nombre es Ángel Elí Bonifacio Gálvez y actualmente soy estudiante de Ingeniería en Desarrollo y Gestión de Software en la **Universidad Tecnológica Fidel Velázquez**.
 
-## Skills and Expertise
+Soy una persona que le gusta el desarrollo de software y el aprendizaje constante. Me gusta explorar nuevas herramientas, conocer diferentes tecnologías y comprender cómo funcionan las páginas, aplicaciones y proyectos desarrollados por otras personas. 
 
-I specialize in front-end and back-end development, utilizing the latest technologies to build responsive and user-friendly websites. My proficiency includes **HTML**, **CSS**, **JavaScript**, and frameworks such as **Astro.js** for dynamic and interactive user interfaces. On the server side, I'm well-versed in Node.js and have experience with database management systems like MongoDB.
+Tengo especial interés en el desarrollo web y bases de datos, aunque también he tenido la oportunidad de trabajar en aplicaciones web, aplicaciones móviles y aplicaciones web progresivas (PWA). Considero que cada proyecto representa una oportunidad para adquirir nuevos conocimientos, experimentar y mejorar mis habilidades.
 
-## Innovation and Problem-Solving
+## Habilidades y conocimientos
 
-I thrive on solving complex problems and transforming ideas into functional, elegant websites. Whether it's optimizing performance, implementing new features, or troubleshooting issues, I approach each challenge with enthusiasm and a commitment to delivering high-quality solutions.
+Durante mi formación académica he adquirido conocimientos en distintas áreas del desarrollo de software, utilizando diferentes lenguajes, herramientas y tecnologías.
 
-## Global Perspective, Local Impact
+**Desarrollo web y programación:**
+- HTML
+- CSS
+- JavaScript
+- PHP
+- Java
+- Python (conocimientos básicos)
 
-Living in Estonia has not only influenced my appreciation for nature and culture but has also shaped my approach to web development. I understand the importance of creating digital solutions that resonate with local audiences while maintaining a global perspective.
+**Bases de datos:**
+- MySQL
+- Oracle
+- phpMyAdmin
 
-## Continuous Learning
+**Herramientas y tecnologías:**
+- Visual Studio Code
+- Android Studio
+- Git y GitHub
+- Docker (Conocimientos básicos)
+- Jenkins (Conocimientos básicos)
+- Apache
+- XAMPP
+- Implementación de APIs
+- Astro
 
-The dynamic nature of the tech industry inspires me to stay up-to-date with the latest trends and advancements. I'm always eager to expand my skill set and embrace emerging technologies that enhance the functionality and aesthetics of the websites I create.
+También he tenido acercamiento al desarrollo de aplicaciones web progresivas (PWA) y aplicaciones móviles, ampliando mi perspectiva sobre las diferentes posibilidades que ofrece el desarrollo de software.
 
-## Collaboration and Communication
+## Proyectos y experiencia práctica
 
-I believe in the power of collaboration and effective communication. Whether working with clients, designers, or fellow developers, I value clear communication to ensure the success of every project.
+Las prácticas académicas me han ayudado a expandir mis conocimientos sobre la carrera que estudio, mediante el desarrollo de proyectos que permitan resolver necesidades específicas y poner a prueba mis habilidades.
 
-## Get in Touch
+A lo largo de mi formación he participado en diferentes proyectos académicos y personales, entre los que destacan:
 
-Are you looking to elevate your online presence or bring your digital ideas to life? I'd love to hear from you! Feel free to reach out for collaboration, consultation, or just a friendly chat about all things web development.
+- **SONIDEROS:** Aplicación web enfocada en la administración y gestión de negocios de sonideros.
+- **Gestor Doméstico (PWA):** Aplicación web progresiva orientada a facilitar la organización y administración de actividades domésticas.
+- **Grupo Ancor:** Sitio web para una empresa dedicada a la comercialización de acero, con funcionalidades para consultar productos y generar cotizaciones de pedidos.
 
-_Let's build something amazing together!_
+Cada uno de estos proyectos me ha permitido enfrentar diferentes retos de desarrollo, trabajar con nuevas herramientas y comprender mejor los procesos necesarios para construir soluciones de software.
+
+## Curiosidad y resolución de problemas
+
+Una de las cosas que más disfruto del desarrollo de software es descubrir cómo funcionan las cosas.
+
+Me gusta analizar páginas web, aplicaciones y proyectos ajenos de compañeros o incluso algunos externos para comprender su funcionamiento, identificar las tecnologías que utilizan y aprender de las soluciones que implementan.
+
+Cuando encuentro algún problema durante el desarrollo, procuro investigar sus posibles causas, comprender qué está sucediendo y encontrar una solución. Considero que este proceso es una parte fundamental del aprendizaje y del crecimiento como desarrollador.
+
+## Intereses y objetivos a futuro
+
+Mi principal objetivo es continuar creciendo dentro del mundo del desarrollo de software, fortaleciendo mis conocimientos y explorando nuevas áreas de la tecnología.
+
+Aunque el desarrollo web y bases de datos son las áreas que digamos más me interesan y tengo conocimientos actualmente, también me llama mucho la atención el **desarrollo de videojuegos**, una rama en la que me gustaría adentrarme y adquirir conocimientos en el futuro.
+
+Me gustaría seguir aprendiendo nuevos lenguajes, herramientas y tecnologías, además de participar en proyectos que representen nuevos retos y me permitan ampliar mi experiencia.
+
+Considero que el aprendizaje nunca termina, especialmente en un área que evoluciona constantemente como lo es la tecnología.
+
+## Contacto
+
+Me interesa seguir aprendiendo, compartir conocimientos y conocer nuevas oportunidades para desarrollar mis habilidades.
+
+Si deseas conocer más sobre mi trabajo y los proyectos en los que he participado, puedes visitar mi perfil de [GitHub](https://github.com/angel-e-bonifacio).
+
+**¡Gracias por visitar mi portafolio!**

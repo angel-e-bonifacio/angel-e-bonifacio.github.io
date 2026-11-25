@@ -1,14 +1,28 @@
 ---
-title: Get in touch
+title: Contacto
 seo:
-  title: Contact
-  description: Get in touch through email or social media! Let me know how I can help.
+  title: Contacto | Ángel Elí Bonifacio
+  description: Ponte en contacto conmigo a través de mi correo electrónico o visita mi perfil de GitHub para conocer mis proyectos.
 ---
 
-Thank you for reaching out! Whether you have a question, a suggestion, or just want to share your thoughts, I'm all ears. Feel free to get in touch through any of the methods below:
+¡Gracias por visitar mi portafolio!
 
-_Email:_
-Feel free to drop me an email at [example@example.com](mailto:example@example.com), and I'll do my best to respond as soon as possible.
+Si tienes alguna pregunta, comentario o simplemente te interesa conocer más sobre mis proyectos y mi trabajo, puedes ponerte en contacto conmigo a través de los siguientes medios. Será un gusto recibir tu mensaje.
 
-_Social Media:_
-Connect with me on social media as well. Find me on [Twitter](https://twitter.com) or [LinkedIn](https://www.linkedin.com/).
+**_Correo electrónico:_**
+
+Puedes escribirme directamente a [4n63l222@gmail.com](mailto:4n63l222@gmail.com). Este es mi principal medio de contacto para consultas y comunicación.
+
+**_GitHub:_**
+
+Puedes visitar mi perfil de [GitHub](https://github.com/angel-e-bonifacio), donde comparto y trabajo en diferentes proyectos relacionados con el desarrollo de software.
+
+**_Correo institucional:_**
+
+También cuento con un correo institucional/provicional de la Universidad Tecnológica Fidel Velázquez para cuestiones relacionadas con mi formación académica o poryectos académicos.
+
+---
+
+Estoy abierto a compartir conocimientos, conocer nuevas ideas y seguir aprendiendo dentro del mundo del desarrollo de software.
+
+**¡Gracias por ponerte en contacto!**

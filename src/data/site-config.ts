@@ -30,14 +30,6 @@ const siteConfig: SiteConfig = {
         {
             text: 'Proyectos',
             href: '/proyects'
-        },
-        {
-            text: 'Blog',
-            href: '/blog'
-        },
-        {
-            text: 'Etiquetas',
-            href: '/tags'
         }
     ],
 

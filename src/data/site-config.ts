@@ -83,7 +83,7 @@ const siteConfig: SiteConfig = {
             {
                 text: 'Sobre mí',
                 href: '/about'
-            }
+            },
             {
                 text: 'Conoce mis proyectos',
                 href: '/proyects'

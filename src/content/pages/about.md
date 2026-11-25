@@ -1,4 +1,3 @@
-
 ---
 title: Sobre mí
 seo:
@@ -11,7 +10,9 @@ seo:
 
 Mi nombre es Ángel Elí Bonifacio Gálvez y actualmente soy estudiante de Ingeniería en Desarrollo y Gestión de Software en la **Universidad Tecnológica Fidel Velázquez**.
 
-Soy una persona que le gusta el desarrollo de software y el aprendizaje constante. Me gusta explorar nuevas herramientas, conocer diferentes tecnologías y comprender cómo funcionan las páginas, aplicaciones y proyectos desarrollados por otras personas. 
+Hace varios meses, terminé la carrea de Técnico Superior Universitario en Tecnologías de la Información área Desarrollo de Software Multiplataforma, y actualmente estoy en porceso de terminar la Ingeniería en Desarrollo y Gestión de Software.
+
+Me gusta el desarrollo de software y el aprendizaje constante. Me gusta explorar nuevas herramientas, conocer diferentes tecnologías y comprender cómo funcionan las páginas, aplicaciones y proyectos desarrollados por otras personas. 
 
 Tengo especial interés en el desarrollo web y bases de datos, aunque también he tenido la oportunidad de trabajar en aplicaciones web, aplicaciones móviles y aplicaciones web progresivas (PWA). Considero que cada proyecto representa una oportunidad para adquirir nuevos conocimientos, experimentar y mejorar mis habilidades.
 
